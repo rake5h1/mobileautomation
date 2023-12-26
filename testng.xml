@@ -1,0 +1,7 @@
+<suite name="SingleSuite" verbose="2" thread-count="4">
+    <test name="Regression2">
+        <classes>
+            <class name="Pages.BaseTest" />
+        </classes>
+    </test>
+</suite> 
